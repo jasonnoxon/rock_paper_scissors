@@ -99,6 +99,8 @@ class Game:
                 print('Computer won!')
             else:
                 print('It was a tie.')
+
+
 if __name__ == '__main__':
     game = Game()
     game.play()
@@ -106,5 +108,4 @@ if __name__ == '__main__':
 
 
 # Todo 
-# handle multiple players with names
 # 3 rounds minimum
